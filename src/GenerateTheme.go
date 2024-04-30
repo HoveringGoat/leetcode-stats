@@ -18,6 +18,16 @@ func GenerateTheme(theme string) Theme {
 			Text3:      "rgba(239,242,246,.6)",
 			Text4:      "rgba(235,235,245,.3)",
 		}
+	case "tokyonight":
+		return Theme{
+			Background: "1a1b27",
+			title_color: "70a5fd",
+			icon_color: "bf91f3",
+			Text: "38bdae",
+			Text2:      "rgba(239,241,246,.75)",
+			Text3:      "rgba(239,242,246,.6)",
+			Text4:      "rgba(235,235,245,.3)",
+		}
 	default:
 		return Theme{
 			Background: "#FFF",
