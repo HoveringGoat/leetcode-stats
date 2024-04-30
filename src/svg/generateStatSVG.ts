@@ -389,13 +389,13 @@ export const generateStatSVG = (
                     class="text-xs font-medium text-label-4 dark:text-dark-label-4">/${allQuestionsCount[1].count}</span></div>
                 <div class="lc-lg:hidden lc-xl:inline text-label-3 dark:text-dark-label-3"><span
                     class="space-x-1.5"><span>Beats</span><span
-                      class="font-medium text-label-2 dark:text-dark-label-2">{{(${acSubmissionNum[0].count}).Percentage}}%</span></span></div>
+                      class="font-medium text-label-2 dark:text-dark-label-2">${acSubmissionNum[0].count * 100.0}%</span></span></div>
               </div>
               <div class="relative h-2 w-full overflow-hidden rounded-full h-1 max-w-none">
                 <div class="absolute h-full w-full bg-green-1 dark:bg-dark-green-1"></div>
                 <div
                   class="absolute h-full rounded-full transition-all duration-300 ease-out bg-olive dark:bg-dark-olive"
-                  style="width: {{(${acSubmissionNum[1].count}).Percentage}}%;"></div>
+                  style="width: ${acSubmissionNum[1].count * 100.0}%;"></div>
               </div>
             </div>
             <div class="space-y-2">
@@ -406,13 +406,13 @@ export const generateStatSVG = (
                     class="text-xs font-medium text-label-4 dark:text-dark-label-4">/${allQuestionsCount[2].count}</span></div>
                 <div class="lc-lg:hidden lc-xl:inline text-label-3 dark:text-dark-label-3"><span
                     class="space-x-1.5"><span>Beats</span><span
-                      class="font-medium text-label-2 dark:text-dark-label-2">{{(${acSubmissionNum[1].count}).Percentage}}%</span></span></div>
+                      class="font-medium text-label-2 dark:text-dark-label-2">${acSubmissionNum[1].count *100.0}%</span></span></div>
               </div>
               <div class="relative h-2 w-full overflow-hidden rounded-full h-1 max-w-none">
                 <div class="absolute h-full w-full bg-yellow-1 dark:bg-dark-yellow-1"></div>
                 <div
                   class="absolute h-full rounded-full transition-all duration-300 ease-out bg-yellow dark:bg-dark-yellow"
-                  style="width: {{(${acSubmissionNum[2].count}).Percentage}}%;"></div>
+                  style="width: ${acSubmissionNum[2].count * 100.0}%;"></div>
               </div>
             </div>
             <div class="space-y-2">
@@ -423,13 +423,13 @@ export const generateStatSVG = (
                     class="text-xs font-medium text-label-4 dark:text-dark-label-4">/${allQuestionsCount[3].count}</span></div>
                 <div class="lc-lg:hidden lc-xl:inline text-label-3 dark:text-dark-label-3"><span
                     class="space-x-1.5"><span>Beats</span><span
-                      class="font-medium text-label-2 dark:text-dark-label-2">{{(${acSubmissionNum[2].count}).Percentage}}%</span></span></div>
+                      class="font-medium text-label-2 dark:text-dark-label-2">${acSubmissionNum[2].count * 100.0}%</span></span></div>
               </div>
               <div class="relative h-2 w-full overflow-hidden rounded-full h-1 max-w-none">
                 <div class="absolute h-full w-full bg-red-1 dark:bg-dark-red-1"></div>
                 <div
                   class="absolute h-full rounded-full transition-all duration-300 ease-out bg-red-s dark:bg-dark-red-s"
-                  style="width: {{(${acSubmissionNum[3].count}).Percentage}}%;"></div>
+                  style="width: ${acSubmissionNum[3].count *100.0}%;"></div>
               </div>
             </div>
           </div>
