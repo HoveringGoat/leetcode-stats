@@ -383,13 +383,13 @@
                     class="text-xs font-medium text-label-4 dark:text-dark-label-4">/790</span></div>
                 <div class="lc-lg:hidden lc-xl:inline text-label-3 dark:text-dark-label-3"><span
                     class="space-x-1.5"><span>Beats</span><span
-                      class="font-medium text-label-2 dark:text-dark-label-2">{{(45).Percentage}}%</span></span></div>
+                      class="font-medium text-label-2 dark:text-dark-label-2">4500%</span></span></div>
               </div>
               <div class="relative h-2 w-full overflow-hidden rounded-full h-1 max-w-none">
                 <div class="absolute h-full w-full bg-green-1 dark:bg-dark-green-1"></div>
                 <div
                   class="absolute h-full rounded-full transition-all duration-300 ease-out bg-olive dark:bg-dark-olive"
-                  style="width: {{(15).Percentage}}%;"></div>
+                  style="width: 1500%;"></div>
               </div>
             </div>
             <div class="space-y-2">
@@ -400,13 +400,13 @@
                     class="text-xs font-medium text-label-4 dark:text-dark-label-4">/1646</span></div>
                 <div class="lc-lg:hidden lc-xl:inline text-label-3 dark:text-dark-label-3"><span
                     class="space-x-1.5"><span>Beats</span><span
-                      class="font-medium text-label-2 dark:text-dark-label-2">{{(15).Percentage}}%</span></span></div>
+                      class="font-medium text-label-2 dark:text-dark-label-2">1500%</span></span></div>
               </div>
               <div class="relative h-2 w-full overflow-hidden rounded-full h-1 max-w-none">
                 <div class="absolute h-full w-full bg-yellow-1 dark:bg-dark-yellow-1"></div>
                 <div
                   class="absolute h-full rounded-full transition-all duration-300 ease-out bg-yellow dark:bg-dark-yellow"
-                  style="width: {{(24).Percentage}}%;"></div>
+                  style="width: 2400%;"></div>
               </div>
             </div>
             <div class="space-y-2">
@@ -417,13 +417,13 @@
                     class="text-xs font-medium text-label-4 dark:text-dark-label-4">/698</span></div>
                 <div class="lc-lg:hidden lc-xl:inline text-label-3 dark:text-dark-label-3"><span
                     class="space-x-1.5"><span>Beats</span><span
-                      class="font-medium text-label-2 dark:text-dark-label-2">{{(24).Percentage}}%</span></span></div>
+                      class="font-medium text-label-2 dark:text-dark-label-2">2400%</span></span></div>
               </div>
               <div class="relative h-2 w-full overflow-hidden rounded-full h-1 max-w-none">
                 <div class="absolute h-full w-full bg-red-1 dark:bg-dark-red-1"></div>
                 <div
                   class="absolute h-full rounded-full transition-all duration-300 ease-out bg-red-s dark:bg-dark-red-s"
-                  style="width: {{(6).Percentage}}%;"></div>
+                  style="width: 600%;"></div>
               </div>
             </div>
           </div>
