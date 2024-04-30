@@ -2,7 +2,7 @@ name: Generate SVG
 
 on:
   push:
-    branches: [master]
+    branches: [github-actions]
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
@@ -31,8 +31,9 @@ jobs:
 
       - name: Commit to the repo
         run: |
-          git config --global user.name "knlnks/leetcode-stats"
-          git config --global user.email "soulkks@hotmail.ca"
+          git config --global user.name "hoveringgoat/leetcode-stats"
+          git config --global user.email "fisher.spencer@gmail.com"
+          git config --global theme "tokyonight"
           git add .
           # "echo" returns true so the build succeeds, even if no changed files
           git commit -m '🎉 Update Generated Files' || echo
