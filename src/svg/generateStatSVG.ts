@@ -246,7 +246,7 @@ export const generateStatSVG = (
     }
 
     .bg-layer-1 {
-      background-color: {{.Theme.Background}};
+      background-color: #1a1b27;
     }
 
     .bg-red-s {
@@ -313,19 +313,19 @@ export const generateStatSVG = (
     }
 
     .text-label-1 {
-      color: {{.Theme.Text}};
+      color: #38bdae;
     }
 
     .text-label-2 {
-      color: {{.Theme.Text2}};
+      color: rgba(239,241,246,.75);
     }
 
     .text-label-3 {
-      color: {{.Theme.Text3}};
+      color: rgba(239,242,246,.6);
     }
 
     .text-label-4 {
-      color: {{.Theme.Text4}};
+      color: rgba(235,235,245,.3);
     }
 
     .shadow-level3 {
