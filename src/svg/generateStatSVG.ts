@@ -334,11 +334,11 @@ export const generateStatSVG = (
       box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
     }
 
-    .drop-shadow-\[0_2px_4px_rgba\(255\2c 161\2c 22\2c 0\.2\)\] {
+    .drop-shadow-\[0_2px_4px_rgba\(255, 161, 22, 0.2\)\] {
       --tw-drop-shadow: drop-shadow(0 2px 4px rgba(255, 161, 22, .2));
     }
 
-    .drop-shadow-\[0_2px_4px_rgba\(255\2c 161\2c 22\2c 0\.2\)\] {
+    .drop-shadow-\[0_2px_4px_rgba\(255, 161, 22, 0.2\)\] {
       filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
     }
 
