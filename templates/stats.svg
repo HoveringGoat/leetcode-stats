@@ -239,7 +239,7 @@
     }
 
     .bg-layer-1 {
-      background-color: {{.Theme.Background}};
+      background-color: {{"#1a1b27"}};
     }
 
     .bg-red-s {
@@ -306,7 +306,7 @@
     }
 
     .text-label-1 {
-      color: {{.Theme.Text}};
+      color: {{#38bdae}};
     }
 
     .text-label-2 {
