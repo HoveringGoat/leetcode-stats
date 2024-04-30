@@ -368,7 +368,7 @@
             <div class="shrink-1 relative max-h-[100px] max-w-[100px] z-base">
               <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 transform text-center">
                 <div>
-                  <div class="text-[24px] font-medium text-label-1 dark:text-dark-label-1">{{(acSubmissionNum[0].count).Count}}</div>
+                  <div class="text-[24px] font-medium text-label-1 dark:text-dark-label-1">45</div>
                   <div class="whitespace-nowrap text-xs text-label-3 dark:text-dark-label-3">Solved</div>
                 </div>
               </div>
@@ -379,51 +379,51 @@
               <div class="flex w-full items-end text-xs">
                 <div class="w-[53px] text-label-3 dark:text-dark-label-3">Easy</div>
                 <div class="flex flex-1 items-center"><span
-                    class="mr-[5px] text-base font-medium leading-[20px] text-label-1 dark:text-dark-label-1">{{(acSubmissionNum[1].count).Count}}</span><span
-                    class="text-xs font-medium text-label-4 dark:text-dark-label-4">/{{(acSubmissionNum[0].count).Count}}</span></div>
+                    class="mr-[5px] text-base font-medium leading-[20px] text-label-1 dark:text-dark-label-1">15</span><span
+                    class="text-xs font-medium text-label-4 dark:text-dark-label-4">/790</span></div>
                 <div class="lc-lg:hidden lc-xl:inline text-label-3 dark:text-dark-label-3"><span
                     class="space-x-1.5"><span>Beats</span><span
-                      class="font-medium text-label-2 dark:text-dark-label-2">{{(acSubmissionNum[0].count).Percentage}}%</span></span></div>
+                      class="font-medium text-label-2 dark:text-dark-label-2">{{(45).Percentage}}%</span></span></div>
               </div>
               <div class="relative h-2 w-full overflow-hidden rounded-full h-1 max-w-none">
                 <div class="absolute h-full w-full bg-green-1 dark:bg-dark-green-1"></div>
                 <div
                   class="absolute h-full rounded-full transition-all duration-300 ease-out bg-olive dark:bg-dark-olive"
-                  style="width: {{(acSubmissionNum[1].count).Percentage}}%;"></div>
+                  style="width: {{(15).Percentage}}%;"></div>
               </div>
             </div>
             <div class="space-y-2">
               <div class="flex w-full items-end text-xs">
                 <div class="w-[53px] text-label-3 dark:text-dark-label-3">Medium</div>
                 <div class="flex flex-1 items-center"><span
-                    class="mr-[5px] text-base font-medium leading-[20px] text-label-1 dark:text-dark-label-1">{{(acSubmissionNum[2].count).Count}}</span><span
-                    class="text-xs font-medium text-label-4 dark:text-dark-label-4">/{{(acSubmissionNum[2].count).Count}}</span></div>
+                    class="mr-[5px] text-base font-medium leading-[20px] text-label-1 dark:text-dark-label-1">24</span><span
+                    class="text-xs font-medium text-label-4 dark:text-dark-label-4">/1646</span></div>
                 <div class="lc-lg:hidden lc-xl:inline text-label-3 dark:text-dark-label-3"><span
                     class="space-x-1.5"><span>Beats</span><span
-                      class="font-medium text-label-2 dark:text-dark-label-2">{{(acSubmissionNum[1].count).Percentage}}%</span></span></div>
+                      class="font-medium text-label-2 dark:text-dark-label-2">{{(15).Percentage}}%</span></span></div>
               </div>
               <div class="relative h-2 w-full overflow-hidden rounded-full h-1 max-w-none">
                 <div class="absolute h-full w-full bg-yellow-1 dark:bg-dark-yellow-1"></div>
                 <div
                   class="absolute h-full rounded-full transition-all duration-300 ease-out bg-yellow dark:bg-dark-yellow"
-                  style="width: {{(acSubmissionNum[2].count).Percentage}}%;"></div>
+                  style="width: {{(24).Percentage}}%;"></div>
               </div>
             </div>
             <div class="space-y-2">
               <div class="flex w-full items-end text-xs">
                 <div class="w-[53px] text-label-3 dark:text-dark-label-3">Hard</div>
                 <div class="flex flex-1 items-center"><span
-                    class="mr-[5px] text-base font-medium leading-[20px] text-label-1 dark:text-dark-label-1">{{(acSubmissionNum[3].count).Count}}</span><span
-                    class="text-xs font-medium text-label-4 dark:text-dark-label-4">/{{(acSubmissionNum[3].count).Count}}</span></div>
+                    class="mr-[5px] text-base font-medium leading-[20px] text-label-1 dark:text-dark-label-1">6</span><span
+                    class="text-xs font-medium text-label-4 dark:text-dark-label-4">/698</span></div>
                 <div class="lc-lg:hidden lc-xl:inline text-label-3 dark:text-dark-label-3"><span
                     class="space-x-1.5"><span>Beats</span><span
-                      class="font-medium text-label-2 dark:text-dark-label-2">{{(acSubmissionNum[2].count).Percentage}}%</span></span></div>
+                      class="font-medium text-label-2 dark:text-dark-label-2">{{(24).Percentage}}%</span></span></div>
               </div>
               <div class="relative h-2 w-full overflow-hidden rounded-full h-1 max-w-none">
                 <div class="absolute h-full w-full bg-red-1 dark:bg-dark-red-1"></div>
                 <div
                   class="absolute h-full rounded-full transition-all duration-300 ease-out bg-red-s dark:bg-dark-red-s"
-                  style="width: {{(acSubmissionNum[3].count).Percentage}}%;"></div>
+                  style="width: {{(6).Percentage}}%;"></div>
               </div>
             </div>
           </div>
