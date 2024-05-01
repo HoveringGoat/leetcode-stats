@@ -368,7 +368,7 @@
             <div class="shrink-1 relative max-h-[100px] max-w-[100px] z-base">
               <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 transform text-center">
                 <div>
-                  <div class="text-[24px] font-medium text-label-1 dark:text-dark-label-1">45</div>
+                  <div class="text-[24px] font-medium text-label-1 dark:text-dark-label-1">48</div>
                   <div class="whitespace-nowrap text-xs text-label-3 dark:text-dark-label-3">Solved</div>
                 </div>
               </div>
@@ -379,34 +379,34 @@
               <div class="flex w-full items-end text-xs">
                 <div class="w-[53px] text-label-3 dark:text-dark-label-3">Easy</div>
                 <div class="flex flex-1 items-center"><span
-                    class="mr-[5px] text-base font-medium leading-[20px] text-label-1 dark:text-dark-label-1">15</span><span
+                    class="mr-[5px] text-base font-medium leading-[20px] text-label-1 dark:text-dark-label-1">16</span><span
                     class="text-xs font-medium text-label-4 dark:text-dark-label-4">/790</span></div>
                 <div class="lc-lg:hidden lc-xl:inline text-label-3 dark:text-dark-label-3"><span
                     class="space-x-1.5"><span>Beats</span><span
-                      class="font-medium text-label-2 dark:text-dark-label-2">4500%</span></span></div>
+                      class="font-medium text-label-2 dark:text-dark-label-2">4800%</span></span></div>
               </div>
               <div class="relative h-2 w-full overflow-hidden rounded-full h-1 max-w-none">
                 <div class="absolute h-full w-full bg-green-1 dark:bg-dark-green-1"></div>
                 <div
                   class="absolute h-full rounded-full transition-all duration-300 ease-out bg-olive dark:bg-dark-olive"
-                  style="width: 1500%;"></div>
+                  style="width: 1600%;"></div>
               </div>
             </div>
             <div class="space-y-2">
               <div class="flex w-full items-end text-xs">
                 <div class="w-[53px] text-label-3 dark:text-dark-label-3">Medium</div>
                 <div class="flex flex-1 items-center"><span
-                    class="mr-[5px] text-base font-medium leading-[20px] text-label-1 dark:text-dark-label-1">24</span><span
+                    class="mr-[5px] text-base font-medium leading-[20px] text-label-1 dark:text-dark-label-1">26</span><span
                     class="text-xs font-medium text-label-4 dark:text-dark-label-4">/1646</span></div>
                 <div class="lc-lg:hidden lc-xl:inline text-label-3 dark:text-dark-label-3"><span
                     class="space-x-1.5"><span>Beats</span><span
-                      class="font-medium text-label-2 dark:text-dark-label-2">1500%</span></span></div>
+                      class="font-medium text-label-2 dark:text-dark-label-2">1600%</span></span></div>
               </div>
               <div class="relative h-2 w-full overflow-hidden rounded-full h-1 max-w-none">
                 <div class="absolute h-full w-full bg-yellow-1 dark:bg-dark-yellow-1"></div>
                 <div
                   class="absolute h-full rounded-full transition-all duration-300 ease-out bg-yellow dark:bg-dark-yellow"
-                  style="width: 2400%;"></div>
+                  style="width: 2600%;"></div>
               </div>
             </div>
             <div class="space-y-2">
@@ -417,7 +417,7 @@
                     class="text-xs font-medium text-label-4 dark:text-dark-label-4">/698</span></div>
                 <div class="lc-lg:hidden lc-xl:inline text-label-3 dark:text-dark-label-3"><span
                     class="space-x-1.5"><span>Beats</span><span
-                      class="font-medium text-label-2 dark:text-dark-label-2">2400%</span></span></div>
+                      class="font-medium text-label-2 dark:text-dark-label-2">2600%</span></span></div>
               </div>
               <div class="relative h-2 w-full overflow-hidden rounded-full h-1 max-w-none">
                 <div class="absolute h-full w-full bg-red-1 dark:bg-dark-red-1"></div>
