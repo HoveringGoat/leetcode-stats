@@ -1,6 +1,5 @@
 
-  <svg class="top-level-svg-wrapper" xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml"
-  width="400" height="186">
+  <svg class="top-level-svg-wrapper" xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <style>
   @font-face {
     font-family:swiper-icons;
@@ -5460,86 +5459,83 @@
   }
 
   </style>
-  <foreignObject x="0" y="0" width="400" height="186">
-    <div xmlns="http://www.w3.org/1999/xhtml" class="min-w-max max-w-full w-full flex-1">
-      <div
-        class="lc-xl:flex-row lc-xl:space-y-0 flex w-full flex-col space-x-0 space-y-4 lc-xl:space-x-4 lc-lg:mt-0 mt-4 dark card">
-        <div class="min-w-max max-w-full w-full flex-1">
-          <div
-            class="bg-layer-1 dark:bg-dark-layer-1 shadow-down-01 dark:shadow-dark-down-01 rounded-lg lc-xl:h-[186px] min-h-[186px] w-full pb-3 pt-4">
-            <div class="px-[13px] text-xs font-medium text-label-3 dark:text-dark-label-3">Solved Problems</div>
-            <div class="lc-xl:mx-8 mx-3 flex items-center">
-              <div class="mr-8 mt-6 flex min-w-[100px] justify-center">
-                <div class="shrink-1 z-base relative max-h-[100px] max-w-[100px]"><svg
-                    class="h-full w-full origin-center -rotate-90 transform" viewBox="0 0 100 100">
-                    <circle fill="none" cx="50px" cy="50px" r="46" stroke-width="4" stroke-linecap="round"
-                      stroke="currentColor" class="text-gray-4 dark:text-dark-gray-4 w-[100px]"></circle>
-                    <circle fill="none" cx="50px" cy="50px" r="46" stroke-width="6" stroke-linecap="round"
-                      stroke="currentColor"
-                      class="cursor-pointer solved-circle-ring dark:text-dark-brand-orange drop-shadow-[0_2px_4px_rgba(255,161,22,0.2)]"
-                      stroke-dasharray="4.426698518906358 284.5998256113546" stroke-dashoffset="0" data-difficulty="ALL">
-                    </circle>
-                  </svg>
-                  <div
-                    class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 transform cursor-default text-center">
-                    <div>
-                      <div class="text-[24px] font-medium text-label-1 dark:text-dark-label-1">48</div>
-                      <div class="whitespace-nowrap text-xs text-label-3 dark:text-dark-label-3">Solved</div>
-                    </div>
+  <foreignObject>
+    <div class="dark card">
+      <div class="min-w-max max-w-full w-full flex-1">
+        <div
+          class="bg-layer-1 dark:bg-dark-layer-1 shadow-down-01 dark:shadow-dark-down-01 rounded-lg lc-xl:h-[186px] min-h-[186px] w-full pb-3 pt-4">
+          <div class="px-[13px] text-xs font-medium text-label-3 dark:text-dark-label-3">Solved Problems</div>
+          <div class="lc-xl:mx-8 mx-3 flex items-center">
+            <div class="mr-8 mt-6 flex min-w-[100px] justify-center">
+              <div class="shrink-1 z-base relative max-h-[100px] max-w-[100px]"><svg
+                  class="h-full w-full origin-center -rotate-90 transform" viewBox="0 0 100 100">
+                  <circle fill="none" cx="50px" cy="50px" r="46" stroke-width="4" stroke-linecap="round"
+                    stroke="currentColor" class="text-gray-4 dark:text-dark-gray-4 w-[100px]"></circle>
+                  <circle fill="none" cx="50px" cy="50px" r="46" stroke-width="6" stroke-linecap="round"
+                    stroke="currentColor"
+                    class="cursor-pointer solved-circle-ring dark:text-dark-brand-orange drop-shadow-[0_2px_4px_rgba(255,161,22,0.2)]"
+                    stroke-dasharray="4.426698518906358 284.5998256113546" stroke-dashoffset="0" data-difficulty="ALL">
+                  </circle>
+                </svg>
+                <div
+                  class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 transform cursor-default text-center">
+                  <div>
+                    <div class="text-[24px] font-medium text-label-1 dark:text-dark-label-1">48</div>
+                    <div class="whitespace-nowrap text-xs text-label-3 dark:text-dark-label-3">Solved</div>
                   </div>
                 </div>
               </div>
-              <div class="lc-xl:max-w-[228px] flex w-full flex-col space-y-4">
-                <div class="space-y-2">
-                  <div class="flex w-full items-end text-xs">
-                    <div class="w-[53px] text-label-3 dark:text-dark-label-3">Easy</div>
-                    <div class="flex flex-1 items-center"><span
-                        class="mr-[5px] text-base font-medium leading-[20px] text-label-1 dark:text-dark-label-1">16</span><span
-                        class="text-xs font-medium text-label-4 dark:text-dark-label-4">/790</span></div>
-                    <div class="lc-lg:hidden lc-xl:inline text-label-3 dark:text-dark-label-3"><span
-                        class="space-x-1.5"><span>Beats</span><span
-                          class="font-medium text-label-2 dark:text-dark-label-2">45.6%</span></span></div>
-                  </div>
-                  <div class="relative h-2 w-full overflow-hidden rounded-full h-1 max-w-none">
-                    <div class="absolute h-full w-full bg-green-1 dark:bg-dark-green-1"></div>
-                    <div
-                      class="absolute h-full rounded-full transition-all duration-300 ease-out bg-olive dark:bg-dark-olive"
-                      style="width: 2.02532%;"></div>
-                  </div>
+            </div>
+            <div class="lc-xl:max-w-[228px] flex w-full flex-col space-y-4">
+              <div class="space-y-2">
+                <div class="flex w-full items-end text-xs">
+                  <div class="w-[53px] text-label-3 dark:text-dark-label-3">Easy</div>
+                  <div class="flex flex-1 items-center"><span
+                      class="mr-[5px] text-base font-medium leading-[20px] text-label-1 dark:text-dark-label-1">16</span><span
+                      class="text-xs font-medium text-label-4 dark:text-dark-label-4">/790</span></div>
+                  <div class="lc-lg:hidden lc-xl:inline text-label-3 dark:text-dark-label-3"><span
+                      class="space-x-1.5"><span>Beats</span><span
+                        class="font-medium text-label-2 dark:text-dark-label-2">45.6%</span></span></div>
                 </div>
-                <div class="space-y-2">
-                  <div class="flex w-full items-end text-xs">
-                    <div class="w-[53px] text-label-3 dark:text-dark-label-3">Medium</div>
-                    <div class="flex flex-1 items-center"><span
-                        class="mr-[5px] text-base font-medium leading-[20px] text-label-1 dark:text-dark-label-1">26</span><span
-                        class="text-xs font-medium text-label-4 dark:text-dark-label-4">/1646</span></div>
-                    <div class="lc-lg:hidden lc-xl:inline text-label-3 dark:text-dark-label-3"><span
-                        class="space-x-1.5"><span>Beats</span><span
-                          class="font-medium text-label-2 dark:text-dark-label-2">62.7%</span></span></div>
-                  </div>
-                  <div class="relative h-2 w-full overflow-hidden rounded-full h-1 max-w-none">
-                    <div class="absolute h-full w-full bg-yellow-1 dark:bg-dark-yellow-1"></div>
-                    <div
-                      class="absolute h-full rounded-full transition-all duration-300 ease-out bg-yellow dark:bg-dark-yellow"
-                      style="width: 1.57959%;"></div>
-                  </div>
+                <div class="relative h-2 w-full overflow-hidden rounded-full h-1 max-w-none">
+                  <div class="absolute h-full w-full bg-green-1 dark:bg-dark-green-1"></div>
+                  <div
+                    class="absolute h-full rounded-full transition-all duration-300 ease-out bg-olive dark:bg-dark-olive"
+                    style="width: 2.02532%;"></div>
                 </div>
-                <div class="space-y-2">
-                  <div class="flex w-full items-end text-xs">
-                    <div class="w-[53px] text-label-3 dark:text-dark-label-3">Hard</div>
-                    <div class="flex flex-1 items-center"><span
-                        class="mr-[5px] text-base font-medium leading-[20px] text-label-1 dark:text-dark-label-1">6</span><span
-                        class="text-xs font-medium text-label-4 dark:text-dark-label-4">/698</span></div>
-                    <div class="lc-lg:hidden lc-xl:inline text-label-3 dark:text-dark-label-3"><span
-                        class="space-x-1.5"><span>Beats</span><span
-                          class="font-medium text-label-2 dark:text-dark-label-2">51.2%</span></span></div>
-                  </div>
-                  <div class="relative h-2 w-full overflow-hidden rounded-full h-1 max-w-none">
-                    <div class="absolute h-full w-full bg-red-1 dark:bg-dark-red-1"></div>
-                    <div
-                      class="absolute h-full rounded-full transition-all duration-300 ease-out bg-red-s dark:bg-dark-red-s"
-                      style="width: 0.859599%;"></div>
-                  </div>
+              </div>
+              <div class="space-y-2">
+                <div class="flex w-full items-end text-xs">
+                  <div class="w-[53px] text-label-3 dark:text-dark-label-3">Medium</div>
+                  <div class="flex flex-1 items-center"><span
+                      class="mr-[5px] text-base font-medium leading-[20px] text-label-1 dark:text-dark-label-1">26</span><span
+                      class="text-xs font-medium text-label-4 dark:text-dark-label-4">/1646</span></div>
+                  <div class="lc-lg:hidden lc-xl:inline text-label-3 dark:text-dark-label-3"><span
+                      class="space-x-1.5"><span>Beats</span><span
+                        class="font-medium text-label-2 dark:text-dark-label-2">62.7%</span></span></div>
+                </div>
+                <div class="relative h-2 w-full overflow-hidden rounded-full h-1 max-w-none">
+                  <div class="absolute h-full w-full bg-yellow-1 dark:bg-dark-yellow-1"></div>
+                  <div
+                    class="absolute h-full rounded-full transition-all duration-300 ease-out bg-yellow dark:bg-dark-yellow"
+                    style="width: 1.57959%;"></div>
+                </div>
+              </div>
+              <div class="space-y-2">
+                <div class="flex w-full items-end text-xs">
+                  <div class="w-[53px] text-label-3 dark:text-dark-label-3">Hard</div>
+                  <div class="flex flex-1 items-center"><span
+                      class="mr-[5px] text-base font-medium leading-[20px] text-label-1 dark:text-dark-label-1">6</span><span
+                      class="text-xs font-medium text-label-4 dark:text-dark-label-4">/698</span></div>
+                  <div class="lc-lg:hidden lc-xl:inline text-label-3 dark:text-dark-label-3"><span
+                      class="space-x-1.5"><span>Beats</span><span
+                        class="font-medium text-label-2 dark:text-dark-label-2">51.2%</span></span></div>
+                </div>
+                <div class="relative h-2 w-full overflow-hidden rounded-full h-1 max-w-none">
+                  <div class="absolute h-full w-full bg-red-1 dark:bg-dark-red-1"></div>
+                  <div
+                    class="absolute h-full rounded-full transition-all duration-300 ease-out bg-red-s dark:bg-dark-red-s"
+                    style="width: 0.859599%;"></div>
                 </div>
               </div>
             </div>
